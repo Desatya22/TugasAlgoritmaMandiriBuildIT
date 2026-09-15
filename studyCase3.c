@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Study Case 3: Menghitung pasangan koin dengan nilai berbeda. */
 static const long long MOD = 1000000007LL;
 
 static int compare_long_long(const void *left, const void *right) {
