@@ -1,0 +1,3 @@
+NAMA = I Gede Wirasatya Diputra
+NIM = 260530911075
+Kelompok Build IT = 1
